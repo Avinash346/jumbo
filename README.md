@@ -150,6 +150,4 @@ Note: JSONPlaceholder is a fake API and doesn't persist changes, but the optimis
 | `npm run lint` | Run ESLint |
 | `npm run typecheck` | Run TypeScript type checking |
 
-## License
 
-MIT
